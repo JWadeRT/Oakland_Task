@@ -18,5 +18,5 @@
 - Select Download ZIP
 - Extract the folder and open it in your editor
 - Note: this requires Python 3.8 or later
-- In the terminal install the needed package (requests) by using - 'pip install requests' and hitting enter
+- In the terminal install the needed package (requests) by typing - 'pip install requests' and hitting enter
 - In the terminal type in a Pokemon to retreive its data using the format 'python main.py <pokemon-name>'. For example - 'python main.py pikachu'
