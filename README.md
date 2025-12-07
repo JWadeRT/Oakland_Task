@@ -18,7 +18,7 @@
 - Select Download ZIP
 - Extract the folder
 - Note: this requires Python 3.8 or later
-- Open the terminal and install the needed package (requests) by typing - 'pip install requests' and hitting enter
-- Check if python is installed by typing python3 -—version. If you see a version like Python 3.x.x its installed, if not download Python from: https://www.python.org/downloads/
+- Open the terminal and install the needed package (requests) by typing 'pip install requests' on Windows or on Mac 'pip3 install requests' and hitting enter
+- In the terminal, check if python is installed by typing 'python3 -—version'. If you see a version like Python 3.x.x its installed, if not download Python from: https://www.python.org/downloads/
 - In the terminal type 'cd' then drag the project folder that the file is in into the terminal window. It will auto-fill the correct path and hit enter 
 - In the terminal type in a Pokemon to retreive its data using the format 'python main.py <pokemon-name>'. For example - 'python main.py pikachu'
