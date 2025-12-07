@@ -14,7 +14,7 @@
 
 3) Usage - How to run
 
-- Click the Code button in GitHub
+- Click the Code in the upper right
 - Select Download ZIP
 - Extract the folder and open it in your editor
 - Note: this requires Python 3.8 or later
