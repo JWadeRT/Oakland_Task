@@ -1,6 +1,6 @@
 1) Description
 
-- This script acts as a Python command-line tool that pulls a specified Pokémons data (ID, name, height, weight) from the Pokémon API when a pokemon is named in the terminal.
+- This script acts as a Python command-line tool that pulls a specified Pokémons data (ID, name, height, weight) from the Pokémon API when a Pokemon is named in the terminal.
 - To improve performance and reduce API calls, pulled results are stored in a local SQLite database.
 - If the same Pokémon is queried more than once, the data is loaded instantly from the database instead of calling the API.
 - Ensure the 'usage' steps are followed in section 3 in order to use properly.
