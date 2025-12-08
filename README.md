@@ -18,6 +18,6 @@
 - Open your terminal and check if python is installed by typing 'python3 -—version' on Mac or 'python --version' on Windows. If you see a version like Python 3.x.x its installed, if not then download Python from: https://www.python.org/downloads/. Note: this requires Python 3.8 or later.
 - In the terminal install the needed package 'requests' by typing 'pip install requests' on Windows or 'pip3 install requests' on Mac, and then hitting enter. If this step is missed it will return an error message.
 - In the terminal type 'cd ' and then drag the unzipped 'Oakland_Task-master' file into the terminal window. It will auto-fill the correct file path after cd. Hit enter. 
-- In the terminal type in a Pokemon to retreive its data using the format 'python main.py _pokemon-name_' on Windows or 'python3 main.py _pokemon-name_' on Mac. For example - 'python3 main.py pikachu'. If the wrong format is used this will give an error message. 
+- In the terminal type in a Pokemon to retreive its data using the format 'python main.py _pokemon-name_' on Windows or 'python3 main.py _pokemon-name_' on Mac. **For example - 'python3 main.py pikachu'**. If the wrong format is used this will give an error message. 
 - If the Pokemon does not exist or is spelt wrong it will give the error message 'Pokemon <pokemon-name> not found. Check spelling and try again.'
-- To search again simply retype 'python3 main.py <pokemon-name>' replacing the name with the Pokemon again as in the example.
+- To search again simply retype 'python3 main.py _pokemon-name_' replacing the name with the Pokemon again as in the example.
